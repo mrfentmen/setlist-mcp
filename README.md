@@ -1,14 +1,14 @@
-# setlist-mcp
+# setlist mcp
 
 Concert setlists via the [Setlist.fm API](https://www.setlist.fm/settings/api).
 "Who played what live, and how many times?"
 
 ## Tools
 
-- `search_artist` — find an artist by name (returns MusicBrainz ID)
-- `get_artist_setlists` — recent shows for an artist, filter by year
-- `get_setlist_detail` — full song-by-song setlist for a show
-- `count_song_plays` — how many times a song was played live + example shows
+- `search_artist`, find an artist by name (returns MusicBrainz ID)
+- `get_artist_setlists`, recent shows for an artist, filter by year
+- `get_setlist_detail`, full song by song setlist for a show
+- `count_song_plays`, how many times a song was played live + example shows
 
 ## Setup
 
